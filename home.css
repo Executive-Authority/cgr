@@ -1,0 +1,95 @@
+html{
+	margin: 0;
+	padding: 0;
+	}
+body {
+	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+	line-height: 2;
+	font-size: 20px;
+	color: Black;
+	background:#99FF99;
+	}
+	
+.menu {
+	position: relative;
+	border-style: inset;
+	border-width: 4px;
+	border-color: #336600;
+	background: #E0FFE0;
+	margin: 0px 0px 00px 0px; 
+	width: 1340px; 
+	height: 200px;
+}
+
+.title{
+margin: -40px 10px 10px 290px;
+font-family: magneto, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 43px;
+}
+
+.titleText{
+text-shadow: 2px 2px 8px green;
+}
+
+.appliances{
+margin: -30px 10px 10px 320px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.decor{
+margin: -38px 10px 10px 470px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.textbooks{
+margin: -38px 10px 10px 580px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.search{
+margin: -42px 10px 10px 810px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.myAccount{
+margin: 21px 10px 10px 1190px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.date{
+margin: -210px 10px 10px 1190px;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+}
+
+.today{
+margin: 9px 0px -5px -3px;
+font-family: chiller, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 22px;
+text-shadow: 2px 2px 3px brown;	
+}
+
+.welcomeText{
+margin: -1px 10px 10px 1170px;
+font-family: Algerian, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+font-size: 15px;
+color: black;
+text-shadow: 2px 2px 8px #FF0000;
+}
+
+.homeButton{
+margin: -205px 10px 10px 1290px;
+height:35px;
+width:35px;
+}
